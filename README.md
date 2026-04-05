@@ -80,7 +80,7 @@ nmap_portscan_gui/
 ### Scan Result
 ![Result](Screenshot1.png)
 
-![Result](output.png)
+![Result](output1.png)
 Use this tool only on hosts and networks you own or have explicit permission to scan. Unauthorized port scanning may be illegal in your jurisdiction.
 
 ## License
