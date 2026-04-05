@@ -72,7 +72,7 @@ nmap_portscan_gui/
 ## Screenshots
 
 ### Code
-![Code](Code.png)
+![Code](code.png)
 
 ### GUI
 ![GUI](gui.png)
