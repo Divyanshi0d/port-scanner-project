@@ -71,6 +71,9 @@ nmap_portscan_gui/
 ## Disclaimer
 ## Screenshots
 
+### Code
+![Code](Code.png)
+
 ### GUI
 ![GUI](gui.png)
 
